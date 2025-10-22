@@ -1,0 +1,11 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Backend course journey to become professional and best practices developer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Kanwer Abdull Rahman",
+  "license": "ISC"
+}
