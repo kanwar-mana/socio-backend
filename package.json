@@ -4,8 +4,11 @@
   "description": "Backend course journey to become professional and best practices developer",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node src/index.js"
   },
   "author": "Kanwer Abdull Rahman",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
